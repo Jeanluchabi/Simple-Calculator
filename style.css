@@ -1,0 +1,13 @@
+body {
+    background-color: darkgray;
+}
+
+.calculator {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#display {
+    font-size: 24px;
+    height: 60px;
+}
